@@ -7,7 +7,7 @@ A collection of data analytics projects built using Power BI and Excel.
 - **File:** `sales_dashboard.pbix`
 - **Tool:** Power BI
 - **Description:** Interactive sales dashboard with KPIs, trends, and regional analysis.
-- ![Dashboard](screenshot-1.png)
+- ![Dashboard](Dashboard-screenshot-1.png)
 
 ### 2. Zepto Project Report (Power BI)
 - **File:** `definition.pbir`
