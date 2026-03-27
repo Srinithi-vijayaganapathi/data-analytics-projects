@@ -13,7 +13,7 @@ A collection of data analytics projects built using Power BI and Excel.
 - **File:** `definition.pbir`
 - **Tool:** Power BI
 - **Description:** Power BI report connected to the Zepto semantic model.
-- ![Dashboard](Zeptodashboard-screenshot.png)
+- ![Zepto Dashboard](Zeptodashboard-screenshot.png)
 
 ### 3. Excel Dashboard
 - **File:** `Excel_Dashboard_Practice_file.xlsx`
